@@ -1,7 +1,7 @@
 # Global-Electronics-Retailer-Sales-Data-Analysis
 Sales data analysis for a fictitious global electronics retailer. Includes transaction, product, customer, store, and exchange rate data. Uses macros and pivot tables to analyze gross profit by product category, brand, country, and online purchases. Also examines customer purchasing behavior by gender, city, and state.
 
-## Project Scope
+## 1. Project Scope
 - Sales Analysis:
   - Top 5 Product Categories by Gross Profit
   - Top 5 Product Subcategories by Gross Profit
@@ -28,7 +28,7 @@ Sales data analysis for a fictitious global electronics retailer. Includes trans
     - Created a pivot table to streamline data exploration and identify top-performing segments
 
 
-## Analysis
+## 2. Analysis
 
 ### Sales Analysis ###
 
@@ -47,6 +47,7 @@ Sales data analysis for a fictitious global electronics retailer. Includes trans
 #### Gross Profit Based on Quantity Purchased
 ![image](https://github.com/user-attachments/assets/1c9c5920-6783-4f04-9965-254c7d683268)
 
+---
 
 ### Customer Analysis ###
 
